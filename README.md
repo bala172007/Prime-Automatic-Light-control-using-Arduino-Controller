@@ -95,10 +95,15 @@ void loop() {
 ```
 
 ## CIRCUIT DIAGRAM:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b8ac126c-518b-47d4-b02e-687e779f1b72" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/32862522-af6f-4d06-8f73-1c960969d7f2" />
+
 
 ## OUTPUT:
-<img width="425" height="236" alt="image" src="https://github.com/user-attachments/assets/49a03561-ffe0-4f3a-9211-e33a85b8ccd5" />
+## LED ON:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a6975f1-9260-41f5-8d20-968edaeee3f8" />
+## LED OFF:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/217022d3-a3fe-4ec2-88d2-946fb97f37b7" />
+
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
