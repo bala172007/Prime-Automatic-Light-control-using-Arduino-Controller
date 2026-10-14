@@ -101,6 +101,7 @@ void loop() {
 ## OUTPUT:
 ## LED ON:
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a6975f1-9260-41f5-8d20-968edaeee3f8" />
+
 ## LED OFF:
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/217022d3-a3fe-4ec2-88d2-946fb97f37b7" />
 
